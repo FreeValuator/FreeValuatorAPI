@@ -22,7 +22,7 @@ $username = '';
 // Fill in your api key
 $api_key = '';
 
-// Fill in the domain where you want a domain appraisal for
+// Fill in the domain where you want the whois results for
 $domain = 'example.com';
 
 $freevaluator = new FreeValuator($username, $api_key);
