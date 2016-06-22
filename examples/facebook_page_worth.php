@@ -22,7 +22,7 @@ $username = '';
 // Fill in your api key
 $api_key = '';
 
-// Fill in the Facebook page name or page id where you want a domain appraisal for
+// Fill in the Facebook page name or page id where you want to check the worth of
 $facebook = '';
 
 $freevaluator = new FreeValuator($username, $api_key);
