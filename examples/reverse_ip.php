@@ -14,7 +14,7 @@
  * FITNESS FOR A PARTICULAR PURPOSE.
 **/
 
-include('components/com_freevaluator/helpers/freevaluator.class.php');
+include('../src/freevaluator.class.php');
 
 // Fill in your username
 $username = '';
